@@ -1,5 +1,12 @@
 # Spring Project of PNU student Bakai Yurii
 
+---
+
+### Explore my API documentation using Swagger:
+
+[API docs](https://app.swaggerhub.com/apis-docs/yuriibakai22/spring-project/1.0.0)
+
+---
 
 ## Functional Requirements for the Backend
 
